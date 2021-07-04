@@ -4,11 +4,6 @@ spring:
     url: jdbc:mysql://81.70.16.236:3306/work_scn?useUnicode=true&characterEncoding=utf8
     username: root
     password: Salumiere123!
-  rabbitmq:
-    host: 8.141.55.183
-    port: 5672
-    username: guest
-    password: guest
   jpa:
     database: MySQL
     show-sql: true
